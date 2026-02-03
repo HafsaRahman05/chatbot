@@ -1,5 +1,5 @@
 import streamlit as st
-from openai import OpenAI
+from openai import OpenAI, RateLimitError, AuthenticationError
 from openai.error import RateLimitError, AuthenticationError
 
 st.title("💬 Chatbot")
