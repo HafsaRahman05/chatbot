@@ -126,5 +126,4 @@ Passionate about AI, Data Science & Web Development
 - OpenAI API for GPT models  
 - Streamlit for amazing UI framework  
 
-
 ---
