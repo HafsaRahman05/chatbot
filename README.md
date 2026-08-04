@@ -117,7 +117,7 @@ The app handles:
 
 **Hafsa Rahman**  
 Software Engineering Student  
-Passionate about AI, Data Science & Web Development
+Passionate about AI, Data Science & full stack Web Development
 
 ---
 
